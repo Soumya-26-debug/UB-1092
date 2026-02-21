@@ -60,3 +60,32 @@ smart_bin/
 ├── weight_sensor.py
 ├── api_client.py
 └── config.py
+
+Flow:
+- Scan QR Code
+- Detect waste type
+- Measure weight
+- Send data to backend
+- Receive reward response
+
+---
+
+## Future Enhancements
+
+- Real ML model integration
+- Fraud detection system
+- Carbon footprint tracking
+- Smart City dashboard
+- Cloud deployment
+
+---
+
+##  Impact
+
+CleanValue promotes sustainable urban waste management by combining technology, incentives, and smart governance, creating cleaner and smarter cities.
+
+---
+
+##  Developed For
+
+Hackathon / Smart City Innovation Challenge
